@@ -1,0 +1,10 @@
+||afs.googlesyndication.com^
+||click.googleanalytics.com^
+||notify.bugsnag.com^
+||sessions.bugsnag.com^
+||browser.sentry-cdn.com^
+||app.getsentry.com^
+||ads-api.twitter.com^
+||ads.pinterest.com^
+||appmetrica.yandex.ru^
+||metrika.yandex.ru^
